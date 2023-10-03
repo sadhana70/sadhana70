@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadhana70&label=Profile%20views&color=0e75b6&style=flat" alt="sadhana70" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning and Web development**
+- 🌱 I’m currently learning **Neural Networks and Web development**
 
 - 📫 How to reach me **panthisadhana123@gmail.com**
 
