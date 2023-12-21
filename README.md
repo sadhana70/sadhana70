@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadhana70&label=Profile%20views&color=0e75b6&style=flat" alt="sadhana70" /> </p>
 
-- 🌱 I’m interested in **Data** Field
+- 🌱 I’m currently exploring **Data** Field
 
 - 📫 How to reach me **panthisadhana123@gmail.com**
 
